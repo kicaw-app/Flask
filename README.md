@@ -9,7 +9,7 @@
 | Isna Prastya Yuniarti          | Cloud Computing    | [Github](https://github.com/akaishawl)|
 
 # Model Description:
-a machine learning model was created to classify images of pet birds
+This machine learning model is a tool for classifying images of pet bird
 
 # HOW THIS WORKS:
 
