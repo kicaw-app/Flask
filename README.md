@@ -1,4 +1,4 @@
-# Kicaw API
+# Kicaw - Prediction API
 # Team ID: CH2-PS362
 
 ## Contributors
