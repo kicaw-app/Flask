@@ -9,9 +9,14 @@
 | Isna Prastya Yuniarti          | Cloud Computing    | [Github](https://github.com/akaishawl)|
 
 # Model Description:
-This machine learning model is a tool for classifying images of pet bird
+This machine learning model API is a tool for classifying images of pet bird.
 
-# HOW THIS WORKS:
+# How It's Built:
+
+![Kicaw ML Archi](https://github.com/kicaw-app/.github/blob/7a5a6851a1d685d77e83c44f6d260cdb32380b25/assets/ml_architecture.drawio.png)
+
+
+# How It Works:
 
 ### 1. Write App (Flask, TensorFlow)
 - The code to build, train, and save the model in "<b>h.5</b>" format
@@ -36,3 +41,6 @@ gcloud builds submit --tag gcr.io/<project_id>/<function_name>
 ```
 gcloud run deploy --image gcr.io/<project_id>/<function_name> --platform managed
 ```
+
+
+#### &copy; Bangkit Academy 2023 Batch #2
