@@ -1,5 +1,5 @@
 # Kicaw - Prediction API
-## Team ID: CH2-PS362
+### Team ID: CH2-PS362
 
 ## Contributors
 
@@ -8,15 +8,15 @@
 | Alman Farroz                   | Machine Learning   | [Github](https://github.com/almanfarroz) |
 | Isna Prastya Yuniarti          | Cloud Computing    | [Github](https://github.com/akaishawl)|
 
-# Model Description:
+## Description:
 This machine learning model API is a tool for classifying images of pet bird.
 
-# How It's Built:
+## How It's Built:
 
 ![Kicaw ML Archi](https://github.com/kicaw-app/.github/blob/7a5a6851a1d685d77e83c44f6d260cdb32380b25/assets/ml_architecture.drawio.png)
 
 
-# How It Works:
+## How It Works:
 
 ### 1. Write App (Flask, TensorFlow)
 - The code to build, train, and save the model in "<b>h.5</b>" format
